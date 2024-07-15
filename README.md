@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **sickdrow/sickdrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 	•	💬 Ask me about full-stack development, e-commerce strategies, and UX/UI design.
 	•	📫 How to reach me: grzesiek@sickdrow.com
 	•	⚡ Fun fact: I can code in multiple programming languages and love exploring new technologies.
--->
